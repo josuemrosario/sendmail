@@ -1,0 +1,27 @@
+        Fri, 07 May 2021 09:16:07 -0300 (BRT)
+Date: Fri, 7 May 2021 14:16:07 +0200
+To: Web Completo Destinatario <webcompleto@gmail.com>
+From: Web Completo Remetente <webcompleto@gmail.com>
+Subject: Oi. Eu sou o assunto
+Message-ID: <AS4LVT1gbHNkTAW7b1N2pxAwKVgod9dGx7e9McFjCyA@localhost>
+X-Mailer: PHPMailer 6.4.1 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="b1_AS4LVT1gbHNkTAW7b1N2pxAwKVgod9dGx7e9McFjCyA"
+Content-Transfer-Encoding: 8bit
+
+This is a multi-part message in MIME format.
+
+--b1_AS4LVT1gbHNkTAW7b1N2pxAwKVgod9dGx7e9McFjCyA
+Content-Type: text/plain; charset=us-ascii
+
+Oi eu sou o conteudo do email sem html
+
+--b1_AS4LVT1gbHNkTAW7b1N2pxAwKVgod9dGx7e9McFjCyA
+Content-Type: text/html; charset=us-ascii
+
+Oi eu sou o conteudo do <strong>email</strong>
+
+
+--b1_AS4LVT1gbHNkTAW7b1N2pxAwKVgod9dGx7e9McFjCyA--
+

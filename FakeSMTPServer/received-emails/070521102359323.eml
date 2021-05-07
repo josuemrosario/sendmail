@@ -1,0 +1,27 @@
+        Fri, 07 May 2021 10:23:59 -0300 (BRT)
+Date: Fri, 7 May 2021 15:23:59 +0200
+To: Web Completo Destinatario <webcompleto@gmail.com>
+From: Web Completo Remetente <webcompleto@gmail.com>
+Subject: teste
+Message-ID: <Ar3EXofe78wE6BJC69a1MWvwAlg20cpKe5sLwzxXMY@localhost>
+X-Mailer: PHPMailer 6.4.1 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="b1_Ar3EXofe78wE6BJC69a1MWvwAlg20cpKe5sLwzxXMY"
+Content-Transfer-Encoding: 8bit
+
+This is a multi-part message in MIME format.
+
+--b1_Ar3EXofe78wE6BJC69a1MWvwAlg20cpKe5sLwzxXMY
+Content-Type: text/plain; charset=us-ascii
+
+Necessario usar um client HTML para acesso dessa mensagem
+
+--b1_Ar3EXofe78wE6BJC69a1MWvwAlg20cpKe5sLwzxXMY
+Content-Type: text/html; charset=us-ascii
+
+tsetset
+
+
+--b1_Ar3EXofe78wE6BJC69a1MWvwAlg20cpKe5sLwzxXMY--
+
